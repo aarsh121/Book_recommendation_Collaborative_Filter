@@ -2,7 +2,7 @@
 This Algorithm gives most which book you can read according to your book taste. 
 Used streamlining to read through Large dataset(5 GB/ 22.8 million records). 
 
-**#File Details-**
+**# File Details-**
 
 **Search_book.ipynb-** unzip 'goodreads_books.json.gz'. In this we can search our books in millions of records. Used TFIDF Vector to transform the data.
 
